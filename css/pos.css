@@ -1,0 +1,79 @@
+#navbar{
+	background-color: #007FFF;
+
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #FFF;
+}
+
+#navbar .navbar-brand {
+    color: #FFF;
+}
+
+#price_column{
+
+  background-color: #F5F5F5;
+
+}
+
+.item_col{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#item_navbar{
+	background-color: #222222;
+}
+
+#item_navbar .nav > li > a:focus, .nav > li > a {
+   
+   color: #FFF;
+}
+#item_navbar .nav > li > a:focus,li.active > a:focus, .nav > li > a:hover {
+   
+   color: #222;
+}
+
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #fff;
+    background-color:#222222;
+    border-style: solid;
+    border-left-color:#040404;
+    border-left-width: 1px;
+    border-right-color:#040404;
+    border-right-width: 1px;
+    border-top-style: none;
+    border-bottom-style: none;
+}
+
+.nav-pills > li > a {
+    border-radius:0px;
+}
+
+.item_btn{
+	border-radius: 20px;
+}
+
+.total_col{
+	background-color: #3FB618;
+	color: #FFF;
+}
+
+#payment_table{
+	background-color: #FFF;
+}
+
+.pay_buttons{
+	border-radius:0px;
+}
+
+.cart_items{
+	background-color: #FF7518;
+	color: #FFF;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
